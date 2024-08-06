@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/pikulinpw/ckeditor5-fullscreen#readme",
   "dependencies": {
-    "@ckeditor/ckeditor5-core": ">=27.1.0",
-    "@ckeditor/ckeditor5-ui": ">=27.1.0"
+    "@ckeditor/ckeditor5-core": ">=42.0.2",
+    "@ckeditor/ckeditor5-ui": ">=42.0.2"
   },
   "peerDependencies": {
-    "@ckeditor/ckeditor5-core": ">=27.1.0",
-    "@ckeditor/ckeditor5-ui": ">=27.1.0"
+    "@ckeditor/ckeditor5-core": ">=42.0.2",
+    "@ckeditor/ckeditor5-ui": ">=42.0.2"
   }
 }
